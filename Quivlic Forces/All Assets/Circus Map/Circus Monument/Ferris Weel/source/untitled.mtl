@@ -1,0 +1,44 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl TT_checker_4096x4096_UV_GRID
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_TT_checker_4096x4096_UV_GRID_Normal.png
+map_Kd D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_TT_checker_4096x4096_UV_GRID_BaseColor.png
+map_Ns D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_TT_checker_4096x4096_UV_GRID_Roughness.png
+refl D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_TT_checker_4096x4096_UV_GRID_Metallic.png
+
+newmtl basement
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.410374 0.110721
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_basement_Normal.png
+map_Kd D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_basement_BaseColor.png
+map_Ns D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_basement_Roughness.png
+refl D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_basement_Metallic.png
+
+newmtl wheel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.086932 0.086932
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_wheel_Normal.png
+map_Kd D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_wheel_BaseColor.png
+map_Ns D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_wheel_Roughness.png
+refl D:\\Substance Painter\\Lunapark_Russina_Wheel\\textures\\RussianWheel_low_wheel_Metallic.png
