@@ -1,0 +1,15 @@
+Munitions Box: Deploy a box of ammo, weapons, and equipment for you and your teammates.
+
+Recon Drone: Pilot a small recon drone that marks enemies and equipment.
+
+Trophy System: Deployable autonomous defense system that destroys up to three incoming enemy projectiles.
+
+Deployable Cover: Portable, instant cover.
+
+Dead Silence: Temporarily makes your footsteps silent.
+
+Stopping Power Rounds: Reload to equip stopping power rounds that deal extra damage to vehicles and killstreaks.
+
+EMP Drone: A drone that emits a burst of electromagnetic energy, disabling enemy electronics.
+
+Weapon Drop: Drop a cache of weapons for you and your teammates to use.

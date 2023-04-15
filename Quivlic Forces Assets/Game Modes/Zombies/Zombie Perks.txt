@@ -1,0 +1,73 @@
+
+Juggernog: Increased health from 100 to 250,
+
+Speed Cola: Cuts reload time in half and builds barriers by 60% faster.
+
+Double Shot Root Beer: Shots two bullets for every one bullet fired, doubling the damage for bullet weapons.
+
+Quick Revive: Shorter delay before regenerating health and increased regeneration rate. Revive Players faster.
+
+Stamin-Up: Increased sprint speed and duration. Stamina regenerates faster.
+
+PhD Flopper: Immunity to explosives and falling damage. Also provide player with
+
+Deadshot Daiquiri: Auto aims weapons at the head, increases hip-fire accuracy by
+
+Mule Kick: Carry an additional Primary weapon. A total of three guns. Going down will remove the last purchased weapon.
+
+Double Tap Root Beer II: Increases bullet weapon damage by 33%.
+
+Tombstone: Players that die can run back to the same spot to recover all perks and weapons. A limited time until the power-up is lost.
+
+Who’s Who: Spawns a doppelganger with only a pistol, allowing players to revive themselves.
+
+Electric Cherry: Electric Shock surrounding player upon reloading. lower the magazine bigger the Shock.
+
+Vulture Aid: See Perk, Wall Weapons, and the Mystery box through walls, Zombies drop ammo, Zombies release gas that deters zombies away from player.
+
+Der Wunderfizz: Grants player with random perk including perks not on the map.
+
+Widow’s Wine: Replaces standard grenade with a spiderweb that slows zombies. It also increases melee damage.
+
+Timeslip: Equipment cooldown rate increased. Mystery Box and Pack-a-Punch weapons appear faster. Greatly reduce Trap and Fast Travel cooldowns.
+
+Death Perception: See nearby enemies through walls. Receive screen indicators when enemies approach the Player from off screen.
+
+Ethereal Razor: Offhand melee swipes affect multiple enemies in an arc. Offhand swipe and lunge give bonus damage and restore a small amount of health.
+
+Electric Burst: Reloading causes an electric discharge that damages and stuns nearby enemies. The more empty the magazine, the stronger the damage.
+
+Dying Wish: Instead of entering Last Stand the Player goes Berserk for 9 seconds. While Berserk, they are invulnerable and melee damage is greatly increased. Afterward, the player is left with 1 health. Cooldown increases with every use.
+
+Stone Cold Stronghold: Standing your ground crates a defensive circle which boosts damage and armor over time while inside.
+
+Victorious Tortoise: Shields block damage from all directions when held. When a Shield breaks it will trigger a defensive explosion.
+
+Deadshot Dealer: Aiming down sight snaps to the enemy’s head. Reduced hip-spread and recoil when firing. Removes scope Sway
+
+Bandolier Bandit: Carry increased ammo stock.
+
+Winter’s Wail: Getting hit by a melee attack while not at full health will cause a frost explosion that will freeze or slow enemies nearby. You can store three charges. In Realistic Difficulty, the frost explosion will trigger regardless of health.
+
+PHD Slider: Slide to build up charge. Once fully charged, slide into enemy to trigger an explosion. Gain full resistance to self-inflicted explosive damage and partial resistance to enemy explosive damage.
+
+Secret Sauce: Receive a random Perk not assigned to another slot.
+
+Zombshell: Basic zombies have a chance to explode when killed, leaving behind a contamination field that slows enemies and increases damage dealt to them. Cooldown increases with each explosion, but resets at the start of every round.
+
+Blood Wolf Bite: Quickly inflicting a lot of damage spawns a Wolf companion that fights alongside the player.
+
+Blaze Phase: Crouch then uncrouch to dash through enemies in a blaze of fire, killing and knocking them back. Stay crouched to charge for more distance. Jump to cancel charge.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Perk 1:
+
+Double Time: Double the duration of Tactical Sprint. Increase crouch movement speed by 30%.
+
+E.O.D.: Take reduced damage from non-killstreak explosives and fire. Hack enemy Claymores, Proximity Mines, and C4.
+
+Scavenger: Resupply ammo from dead players. Replenish lethal equipment from dead players.
+
+Perk 2:
+
+Ghost: Undetectable by UAVs, Radar Drones, and Heartbeat Sensors. Immune to snapshot grenades.
+
+Hardline: Killstreaks cost 1 less kill. Deathstreaks cost 1 less death.
+
+Killchain: Killstreaks earned in your current life earn kill credit for other killstreaks.
+
+Perk 3:
+
+Amped: Faster weapon swap and rocket launcher reload speed. Increased field upgrade speed.
+
+Battle Hardened: Reduced strength of enemy flash, stun, and EMP effects. Immune to snapshot grenades and gas grenades.
+
+Shrapnel: Spawn with an extra piece of lethal equipment. Explosive damage delays enemy health regeneration.

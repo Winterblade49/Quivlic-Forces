@@ -1,0 +1,25 @@
+*{+-}= Can change with attachments
+
+-------------------------------------------------------------------------------------------------------------
+\Weapon Attrabutes/
+
+-Range {+-}
+-Damage {+-}
+-Recoil Control {+-}
+-Fire Rate {+-}
+-Handling {+-}
+-Accuracy {+-}
+-Reload Speed {+-}
+-Movement Speed {+-}
+-Aiming Move Speed {+-}
+-Aimdown Sight Speed {+-}
+-Tac Sprint Speed {+-}
+-Tac Sprint Time {+-}
+-Can Slide Cancel 
+-Can Weapon Mount {+-}
+-Weapon Hold Position {Small,Med,Large}{+-}
+-
+-
+
+
+
